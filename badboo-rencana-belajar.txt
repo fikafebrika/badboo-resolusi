@@ -4,9 +4,11 @@ RENCANA BELAJAR BADBOO
   * HTML
   * CSS
     ^ Bootstrap
-    ^ SASS
+    ^ SASS/SCSS
   * JavaScript
-    ^ React.js
+    ^ Vue.js
 - BACKEND
   * PHP
 - CLOUD
+- PROJECT MANAGEMENT
+- UI/UX Design
