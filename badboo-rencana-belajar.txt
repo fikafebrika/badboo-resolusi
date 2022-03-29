@@ -3,8 +3,12 @@ RENCANA BELAJAR BADBOO
 - FRONTEND
   * HTML
   * CSS
-  * Bootstrap
-  * SASS
+    ^ Bootstrap
+    ^ SASS/SCSS
+  * JavaScript
+    ^ Vue.js
 - BACKEND
+  * PHP
 - CLOUD
 - PROJECT MANAGEMENT
+- UI/UX Design
