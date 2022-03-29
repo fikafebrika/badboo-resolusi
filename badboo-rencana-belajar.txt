@@ -1,0 +1,6 @@
+RENCANA BELAJAR BADBOO
+
+- HTML
+- CSS
+- Bootstrap
+- SASS
