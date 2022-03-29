@@ -6,6 +6,7 @@ RENCANA BELAJAR BADBOO
     ^ Bootstrap
     ^ SASS/SCSS
   * JavaScript
+    ^ Vue.js
 - BACKEND
   * PHP
 - CLOUD
